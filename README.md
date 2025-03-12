@@ -5,6 +5,7 @@ Welcome to the Financial Assistant, an AI-powered financial assistant designed t
 ---
 
 Inspiration
+
 Investing can be intimidating, especially for beginners. Many people don’t know where to start or how to make informed decisions. We built the Financial Assistant MVP to simplify investing and empower users with the knowledge and tools they need to grow their wealth.
 
 ---
